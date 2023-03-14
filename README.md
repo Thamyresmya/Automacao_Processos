@@ -1,6 +1,6 @@
 # Projeto de Automação de Processos
 
-Projeto desenvolvido em Python junto com o Lira da #Hashtag para automatizar envio de relatórios. 
+Projeto desenvolvido em Python junto com a equipe da #Hashtag para automatizar envio de relatórios. 
 
 ![](img/capa.png)
 
